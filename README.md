@@ -82,3 +82,5 @@ Classes and Functions
 Summary
 -------
 Each DNA sequence is analyzed by DNASeq and checked for palindromic properties using PalindromeFinder. The main program controls file handling and output.
+
+test test test
